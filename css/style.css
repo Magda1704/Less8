@@ -1,0 +1,235 @@
+.div-bar {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+.logo {
+    margin-left: 132px;
+    
+}
+.nav-bar {
+    display: flex;
+    /* margin-left: 932px; */
+    margin-right: 80px;
+    /* margin-top: 87px; */
+    width: 581px;
+
+}
+.li {
+    margin-right: 16px;
+    font-size: 20px;
+    color: #3D37F1;
+}
+
+.sec1 {
+    margin: 0 auto;
+    display: flex;
+    margin-top: 285px;
+}
+/* .left-block {
+    width: 600px;
+} */
+
+.left-block h2 {
+    width: 600px;
+    height: 200px;
+    font-size: 78px;
+    font-weight: bold;
+    
+}
+.left-block p {
+    width: 600px;
+    height: 103px;
+    font-size: 22px;
+    margin-top: 42px;
+    
+}
+/* .right-block {
+    width: 800px;
+    margin-left: 282px;
+} */
+.buttom {
+    background-color: #3D37F1;
+    width: 263px;
+    height: 75px;
+    border-radius: 30cm;
+    /* font-size: 22px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+.hand {
+    padding-right: 24px;
+}
+.sec2 {
+    width: 1183px;
+    margin: 0 auto;
+}
+.top-div {
+    width: 712px;
+    margin: 87px auto;
+    text-align: center;
+}
+
+.top-div h3 {
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+
+}
+.top-div h2 {
+    font-size: 40px;
+    margin-top: 17px;
+    margin-bottom: 21px;
+}
+.top-div p {
+    font-size: 18px;
+}
+.bottom-div {
+    width: 1170px;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.div1 {
+    background-color: #FBBA77;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.readmore {
+    background-color: white;
+    width: 131px;
+    height: 45px;
+    border-radius: 30cm;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 121px;
+}
+.div1-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div1-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px;
+}
+
+.div2 {
+    background-color: #41EAE3;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.div2-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div2-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px;
+}
+.div3 {
+    background-color: #69529F;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.div3-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div3-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px;
+}
+.div4 {
+    background-color: #4386D2;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.div4-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div4-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px;
+}
+.div5 {
+    background-color: #A5A2F6;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.div5-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div5-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px; 
+}
+.div6 {
+    background-color: #FF8088;
+    width: 370px;
+    height: 451px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.div6-child h3 {
+    font-size: 22px;
+    color: white;
+    margin-top: 57px;
+    margin-bottom: 14px;
+}
+.div6-child p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 14px;
+}
+
+@media screen {
+    
+}
